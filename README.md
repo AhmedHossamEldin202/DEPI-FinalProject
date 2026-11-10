@@ -109,12 +109,3 @@ The goal of this project is to implement an end-to-end functional quality engine
 
 ```bash
 npm install -g newman
-```
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/AhmedHossamEldin202/DEPI-FinalProject.git
-
-cd DEPI-FinalProject
-```
