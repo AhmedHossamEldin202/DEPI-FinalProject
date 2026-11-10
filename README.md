@@ -329,7 +329,3 @@ Automated regression builds are managed via **GitHub Actions** (`.github/workflo
 2. Caches Maven dependencies for faster build cycles.
 3. Executes the full Cucumber BDD regression suite headlessly.
 4. Archives TestNG test reports and ExtentReports as downloadable build artifacts.
-
-```
-
-```
