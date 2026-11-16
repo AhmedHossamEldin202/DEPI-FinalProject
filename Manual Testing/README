@@ -1,1 +1,6 @@
+Comprehensive Manual Functional Testing Suite for the BrowserStack Demo Store (https://bstackdemo.com/) developed as part of the Digital Egypt Pioneers Initiative (DEPI) Graduation Project.
 
+This deliverable covers end-to-end desktop functional validation across Google Chrome, Brave, Microsoft Edge, and Mozilla Firefox on Windows 10/11, encompassing:
+- Detailed Test Case Design (Sheet 1): Structured test scenarios with Test IDs, Modules, Pre-conditions, Step-by-Step Execution Actions, Test Data, Expected Results, Actual Results, and Execution Statuses covering User Authentication & Session Persistence, Product Catalog & Vendor/Price Filtering, Shopping Cart Mechanics, and Mock Checkout & Order Confirmation flows.
+- Exploratory Testing & Edge-Case Analysis: Ad-hoc functional verification targeting UI state transitions, boundary conditions, and dynamic Single-Page Application (SPA) reactivity.
+- Defect Management & Jira Traceability (Sheet 2): Formal Bug Reports Log documenting Defect IDs, Summaries, Reproduction Steps, Severity Classifications (Blocker, Critical, Major, Minor), Lifecycle Statuses, and cross-referenced Atlassian Jira issue keys.
